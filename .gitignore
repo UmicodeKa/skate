@@ -1,5 +1,6 @@
 # Ignore
 .*
+*.code-workspace
 
 # Allow
 !.git*
