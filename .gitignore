@@ -1,2 +1,5 @@
-.obsidian
-.code-workspace
+# Ignore
+.*
+
+# Allow
+!.git*
